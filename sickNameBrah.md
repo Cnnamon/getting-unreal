@@ -1,3 +1,7 @@
-**fun times incoming**
+##Blueprint remindes
 
-_how can I display this text on my branch?_
+###Getting an object (actor)
+
+_Select actor, right click in blueprint section_
+
+###Proximity - Use volume (the area).
